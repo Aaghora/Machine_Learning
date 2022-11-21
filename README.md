@@ -1,40 +1,40 @@
 # Machine_Learning
 Study Material
 
-1.What does one mean by the term "machine learning"?
-  ML is a sub branch of Artificial Intelligence, which gives a computer the tendency to learn from the training datasets using various algorithms, 
-  and helps in further intelligent prediction of the result.
+1.	What does one mean by the term "machine learning"?
+	ML is a sub branch of Artificial Intelligence, which gives a computer the tendency to learn from the training datasets using various algorithms, 
+  	and helps in further intelligent prediction of the result.
 
-2.Can you think of 4 distinct types of issues where it shines?
+2.	Can you think of 4 distinct types of issues where it shines?
 	a) Health sector- detection of various health issues like Diabetes, cancer, covid etc.
 	b) Defence sector- Detection of mines, intercepting missiles, image recognition
 	c) Industry sector- prediction analysis, speech recognition, Economy prediction
 	d) Service sector- chat bots, automatic token generator, voice dialling, etc.
 
-3.What is a labelled training set, and how does it work?
+3.	What is a labelled training set, and how does it work?
 	Labelled training sets are features of data that are provided to the algorithm in order to train the algorithm, which further helps is predicting 
 	the results when new data is feed.First the data is divided into two parts training and testing then the training data is fed to the suitable 
 	algorithm, after training the data, the testing data is fed in order to check the accuracy of the algorithm developed.  
 
-4.What are the two most important tasks that are supervised?
+4	.What are the two most important tasks that are supervised?
 	Classification and Regression are the two major tasks performed supervised learning.
 	Classification refers to the problems which have binary output likes Yes No, True false., whereas Regression refers to those set of data which 
 	expect some sort of continuous outcomes like height, weight, Rank,etc. 
 
-5.Can you think of four examples of unsupervised tasks?
+5.	Can you think of four examples of unsupervised tasks?
 	Organise computing data (google location based request), 
 	Market segmentation (sending ads to a particular group),
  	Grouping/clustering goods (Arranging goods on mall selves), 
 	Social Network analysis (Connecting people on the basis of school, friends etc.). 
 	Astronomical data analysis (Group far off galaxy, planets and satellite).
 
-6.State the machine learning model that would be best to make a robot walk through various unfamiliar terrains?
+6.	State the machine learning model that would be best to make a robot walk through various unfamiliar terrains?
 	Reinforced learning is best suited for the robot walking on through the unfamiliar terrains.
 
-7.Which algorithm will you use to divide your customers into different groups?
+7.	Which algorithm will you use to divide your customers into different groups?
 	The best algorithm to divide customers into different groups is unsupervised learning. It will create the clusters and assign accordingly.
 
-8.Will you consider the problem of spam detection to be a supervised or unsupervised learning problem?
+8.	Will you consider the problem of spam detection to be a supervised or unsupervised learning problem?
 	Spam detection is a supervised learning problem since group is decided as spam or not spam. In this case we try to keep False Positive (FP) 
 	as low as possible. Precession should be our focused matrix score. Precission =TP/(TP+FP)
 
